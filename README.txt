@@ -1,1 +1,1 @@
-Primer fichero.
+Trabajo en grupo  "Almacen de aparatos electrónicos"
