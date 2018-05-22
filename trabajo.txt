@@ -1,0 +1,375 @@
+Igor Akinfeev;Portero;35;32;CSKA Moscu
+Vladimir Granat;Defensa;14;30;Rubin Kazan
+Andrey Semenov;Defensa;15;29;Tarek Grozniy
+Igor Smolnikov;Defensa;19;29;Zenit
+Dmitri Komvarov;Defensa;23;31;Spartak Moscu
+Denis Cheryshev;Centrocampista;7;27;Villareal FC
+Denis Glushakov;Centrocampista;8;31;Spartak Moscu
+Alan Dzagoev;Centrocampista;10;27;CSKA Moscu
+Daler Kuzyaev;Centrocampista;14;25;Zenit
+Fedor Smolov;Delantero;10;28;Krasnodar
+Anton Zabolotny;Delantero;29;26;Zenit
+Yasser Al Mosailem;Portero;1;34;Al Ahli Jeddah
+Mohammed Al Burayk;Defensa;2;25;Al Hilal Riyadh
+Omar Hawsawi;Defensa;4;32;Al Nassr
+Ali Albulayhi;Defensa;5;28;Al Hilal Riyadh
+Yasir Al Shahrani;Defensa;12;30;Al Hilal Riyadh
+Salman Al Faraj;Centrocampista;7;28;Al Hilal Riyadh
+Taiseer Al Jassam;Centrocampista;8;33;Al Ahli Jeddah
+Abdullah Ateef;Centrocampista;8;25;Al Hilal Riyadh
+Hussain Al Mogahwi;Centrocampista;11;30;Al Ahli Jeddah
+Mohammed Al Kuwaykibi;Delantero;7;23;Al Ittifaq
+Mohammed Al Sahlawi;Delantero;10;31;Al Nassar
+Essam El Hadary;Portero;1;45;Al Taawon
+Omar Gaber;Defensa;4;26;Los Angeles FC
+Mohamed Shafy;Defensa;6;32;Al Fateh
+Ayman Ashraf;Defensa;12;27;Al Ahly
+Ali Gabr;Defensa;16;29;Zamalek
+Tarek Hamed;Centrocampista;3;29;Zamalek
+Sam Morsy;Centrocampista;5;26;Wigan Athletic
+Trezeguet;Centrocampista;7;23;Kasimpasa
+Amr Warda;Centrocampista;10;24;Atromitos Atenas
+Ahmed Hassan;Delantero;9;25;Braga
+Mohamed Salah;Delantero;11;25;Liverpool FC
+Fernando Muslera;Portero;1;31;Galatasaray
+Maxi Pereira;Defensa;2;33;Academico Viseu
+Diego Godin;Defensa;2;32;Atletico de Madrid
+Sebastian Coates;Defensa;4;27;Sporting Portugal
+Jose Gimenez;Defensa;24;23;Atletico de Madrid
+Cristian Rodriguez;Centrocampista;7;32;Peñarol
+Rodrigo Betancour;Centrocampista;30;20;Juventus FC
+Matias Vecino;Centrocampista;11;29;Internazionale FC
+Lucas Torreira;Centrocampista;34;22;Sampdoria FC
+Luis Suarez;Delantero;9;31;Barcelona FC
+Edison Cavani;Delantero;9;31;Paris Saint-Germain
+David de Gea;Portero;1;27;Manchester United
+Dani Carvajal;Defensa;2;26;Real Madrid
+Gerard Pique;Defensa;3;31;Baarcelona FC
+Sergio Ramos;Defensa;4;32;Real Madrid
+Jordi Alba;Defensa;18;29;Barcelona FC
+Sergio Busquets;Centrocampista;5;29;Barcelona FC
+Koke;Centrocampista;6;26;Atletico de Madrid
+Andres Iniesta;Centrocampista;8;33;Barcelona FC
+Thiago Alcantara;Centrocampista;4;27;Bayern Munich
+Iago Aspas;Delantero;10;30;Celta De Vigo
+Diego Costa;Delantero;18;29;Atletico de Madrid
+Amir Abedzadeh;Portero;1;25;Maritimo
+Milad Mohammadi;Defensa;13;24;Terek Grozniy
+Morteza Pouraliganji;Defensa;24;26;Al Sadd
+Pejman Montazeri;Defensa;33;34;Esteghlal Teheran
+Vouria Ghafouri;Defensa;11;30;Esteghlal Teheran
+Ali Reza Jahanbakhsh;Centrocampista;7;24;Alkamar
+Ehsan Haji Safi;Centrocampista;20;28;Olympiacos Pireo
+Ashkan Dejagah;Centrocampista;21;31;Nottingham Forest
+Masoud Shojaei;Centrocampista;24;33;AEK Atenas
+Reza Ghoochannejhad;Delantero;9;30;Heerenveen
+Sardar Azmoun;Delantero;33;23;Rubin Kazan
+Munir Mohamedi;Portero;1;28;Numancia
+Mehdi Benatia;Defensa;4;31;Juventus FC
+Mohamed Nahiri;Defensa;30;26;FUS Rabat
+Achraf Hakimi;Defensa;19;19;Real Madrid
+Manuel Da Costa;Defensa;27;32;Instanbul Basaksehir
+Salaheddine Saidi;Centrocampista;4;31;Wydad Athletic Club
+Karim El Ahmadi;Centrocampista;8;33;Feyenoord
+Younes Belhanda;Centrocampista;10;28;Galatasaray
+Faycal Fajr;Centrocampista;21;29;Getafe SAD
+Nordin Amarabat;Delantero;7;31;Leganes
+Aziz Bouhaddouz;Delantero;9;31;St. Pauli
+Anthony Lopes;Portero;1;27;Olympique de Lyon
+Bruno Alves;Defensa;22;36;Rangers FC
+Luis Neto;Defensa;14;29;Fenerbace
+Raphael Guerreiro;Defensa;13;24;Borussia Dormunt
+Joao Cancelo;Defensa;7;23;Internazionale FC
+Ricardo Quaresma;Centrocampista;7;34;Besiktas
+Joao Moutinho;Centrocampista;8;31;AS Monaco
+Adrien Silva;Centrocampista;14;29;Leicester City
+Bernardo Silva;Centrocampista;20;23;Manchester City
+Andre Gomes;Centrocampista;21;24;Barcelona FC
+Cristiano Ronaldo;Delantero;7;33;Real Madrid
+Mat Ryan;Portero;1;26;FC Brighton & Hove Albion
+Milos Degenek;Defensa;2;24;Yokohoma F Marinos
+Alex Gersbach;Defensa;5;21;Lens
+Bailey Wright;Defensa;8;25;Bristol City
+Joshua Ridson;Defensa;7;25;Western Sydney
+Robbie Kruse;Centrocampista;10;29;Bochum
+Mathew Leckie;Centrocampista;11;27;Herta Berlin
+Aaron Mooy;Centrocampista;13;27;Huddersfield Town
+Massimo Luongo;Centrocampista;21;25;Queens Park Rangers
+Tim Cahill;Delantero;4;38;Millwall
+Tom Juric;Delantero;9;26;Lu
+Kasper Schmeichel;Portero;1;31;Leicester City
+Simon Kjaer;Defensa;4;29;Sevilla FC
+Riza Durmisi;Defensa;14;24;Real Betis
+Nicolai Boilesen;Defensa;20;26;FC Copenhague
+Lasse Nielsen;Defensa;24;30; Malmo FF
+William Kvist;Centrocampista;6;33;FC Copenhague
+Christian Eriksen;Centrocampista;23;26;Tottenham Hotspur
+Lasse Schone;Centrocampista;20;31;Ajax Amsterdam
+Lukas Lerager;Centrocampista;19;24;Burdeos
+Nickla Bendter;Delantero;9;30;Rosenborg BK
+Pione Sisto;Delantero;11;23;Celta de Vigo
+Hugo Lloris;Portero;1;31;Tottenham Hotspur
+Raphael Varane;Defensa;5;25;Real Madrid
+Samuel Umtiti;Defensa;23;24;Barcelona FC
+Presnel Kimpembe;Defensa;3;22;Paris Sait-Germain
+Lucas Digne;Defensa;19;24;Barcelona FC
+Paul Pogba;Centrocampista;6;25;Manchester United
+NGolo Kante;Centrocampista;7;27;Chelsea FC
+0usmane Dembele;Centrocampista;11;20;Barcelona FC
+Blaise Matuidi;Centrocampista;14;31;Juventus FC
+Antoine Griezmann;Delantero;7;27;Barcelona FC
+Kylian Mbappe Lottin;Delantero;29;19;Paris Saint-Germain
+Jose Carvallo;Portero;1;32;UTC Cajamara
+Alberto Rodriguez;Defensa;2;34;Club Atletico Junior
+Aldo Corzo;Defensa;3;28;Universitario de Deportes
+Anderson Santamaria;Defensa;4;26;Puebla
+Christian Ramos;Defensa;15;29;Veracruz
+Paolo Hurtado;Centrocampista;7;27;Guimares
+Jefferson Farfan;Centrocampista;10;33;Lokomotiv Moscu
+Christian Cueva;Centrocampista;10;26;Sao Paolo
+Renato Tapia;Centrocampista;13;22;Feynoord
+Beto da Silva;Delantero;9;21;Argentinos Junior
+Raul Ruidiaz;Delantero;11;27;Moreila
+Sergio Romero;Portero;1;31;Manchester United
+Nicolas Otamendi;Defensa;17;30;Manchester City
+Marcos Rojo;Defensa;16;28;Manchester United
+Gabriel Mercado;Defensa;2;31;Sevilla FC
+Leandro Paredes;Centrocampista;5;23;Zenit
+Ever Banega;Centrocampista;19;29;Sevilla FC
+Lucas Biglia;Centrocampista;6;32;AC Milan
+Angel Di Maria;Centrocampista;11;30; Paris Saint Germain
+Manuel Lanzini;Centrocampista;25;25; West Ham
+Lionel Messi;Delantero;10;30; FC Barcelona
+Sergio Aguero;Delantero;7;29;Manchester City
+Danijel Subasic;Portero;23;33;AS Monaco
+Dejan Lovren;Defensa;6;28;Liverpool
+Sime Vrsaljko;Defensa;2;26;Atletico de Madrid
+Vedran Corluka;Defensa;5;32;Lokomotiv Moscu
+Ivan Strinic;Defensa;3;30;UC Sampdoria
+Ivan Rakitic;Centrocampista;7;30;FC Barcelona
+Luka Modric;Centrocampista;10;32;Real Madrid
+Mateo Kovacic;Centrocampista;8;24;Real Madrid
+Ivan Perisic;Delantero;4;29;Inter de Milan
+Mario Mandzukic;Delantero;17;31;Juventus
+Mario Pasalic;Centrocampista;26;23;Spartak Moscu
+Francis Uzoho;Portero;23;19;Deportivo de la Coruna
+Tyronne Ebuehi;Defensa;21;22;ADO Den Haag
+Bryan Idowu;Defensa;24;25;Amkar Perm
+Chidozie Awaziem;Defensa;20;21;FC Nantes
+William Troost-Ekong;Defensa;5;24;Bursaspor
+Ogenyi Onazi;Centrocampista;17;25;Trabzonspor
+Joel Obi;centrocampista;25;26;Torino FC
+Wilfred Ndidi;Centrocampista;13;21;Leicester City
+Victor Moses;Delantero;11;27;Chelsea FC
+Ahmed Musa;Delantero;7;25;CSKA Moscu
+Alex Iwobi;Delantero;7;22; Arsenal
+Frederik Schram;Portero;25;23;FC Roskilde
+Ari Freyr Skulason;Defensa;23;30;KSC Lokeren	
+Jon Gudni Fjoluson;Defensa;3;29;IFK Norrkoping
+Ragnar Sigurdsson;Defensa;6;31;FK Rostov
+Olafur Ingi Skulason;Centrocampista;16;35;Kardemir Karabukspor
+Birkir Bjarnason;Centrocampista;8;29;Aston Villa
+Rurik Gislason;Centrocampista;19;30;SV Sandhausen	
+Johann Berg Gudmundsson;Centrocampista;7;27;FC Burnley	
+Bjorn Sigurdarson;Delantero;11;27;FK Rostov	
+Kjartan Finnbogason;Delantero;29;31;AC Horsen
+Alisson;Portero;1;25;AS Roma
+Marquinhos;Defensa;13;23;Paris Saint Germain
+Thiago Silva;Defensa;14;33;Paris Saint Germain
+Marcelo;Defensa;12;29;Real Madrid
+Dani Alves;Defensa;2;35;Paris Saint Germain
+Casemiro;Centrocampista;5;26;Real Madrid
+Paulinho;Centrocampista;15;29;FC Barcelona
+Neymar;Delantero;10;26;Paris Saint Germain
+Philippe Coutinho;Centrocampista;11;25;FC Barcelona
+Roberto Firmino;Delantero;21;26;Liverpool
+Gabriel Jesus;Delantero;9;21;Manchester City
+Yann Sommer;Portero;1;29;Borussia Monchengladbach
+Ricardo Rodriguez;Defensa;113;25;AC Milan
+Stephan Lichtsteiner;Defensa;2;34;Juventus
+Fabian Schar;Defensa;22;26;Deportivo de la Coruna
+Manuel Akanji;Defensa;13;22; Borussia Dortmund
+Granit Xhaka;Centrocampista;10;25;Arsenal
+Haris Seferovic;Delantero;9;26;Benfica
+Steven Zuber;Centrocampista;20;26;Hoffenheim
+Remo Freuler ;Centrocampista;8;26;Atalanta Bergamo
+Valon Behrami;Centrocampista;11;33;Udinese Calcio
+Josip Drmic;Delantero;19;25;Borussia Monchengladbach
+Keylor Navas;Portero;1;31;Real Madrid
+Óscar Duarte;Defensa;6;28;Esnpanyol
+Bryan Oviedo;Defensa;8;28;Sunderland
+Giancarlo González;Defensa;3;30;FC Bologna
+Cristian Gamboa;Defensa;16;28;Celtic FC
+Bryan Ruíz;Centrocampista;10;32;Sporting Lisboa
+David Guzmán;Centrocamposta;20;28;Portland Timbers
+Celso Borges;Centrocampista;5;29;Deportivo de la Coruna
+Yendrick Ruiz;Delantero;9;31;CS Herediano
+Rodney Wallace;Centrocampista;13;29;New York City FC
+Daniel Colindres;Delantero;12;33;Deportivo Saprissa
+Marko Dmitrovic;Portero;12;26;Eibar
+Matija Nastasic;Defensa;5;25;FC Schalke 04
+Aleksandar Kolarov;Defensa;11;32;AS Roma
+Antonio Rukavina;Defensa;2;34;Villareal
+Milos Veljkovic;Defensa;13;22;SV Werder Bremen
+Marko Grujic;Centrocampista;24;22;Cardiff City	
+Nemanja Matic;Centrocampista;21;29;Manchester United
+Adem Ljajic;Centrocampista;22;26;Torino
+Dusan Tadic;Delantero;10;29;Southampton
+Aleksandar Mitrovic;Delantero;9;23;Fulham
+Andrija Zivkovic;Centrocampista;7;21;Benfica
+Guillermo Ochoa;Portero;13;32;Standard Lieja
+Diego Reyes;Defensa;5;25;Porto
+Héctor Moreno;Defensa;15;30;Real Sociedad
+Miguel Layún;Defensa;7;29;Sevilla FC
+Héctor Herrera;Centrocampista;20;28;Porto
+Andres Guardado;Centrocampista;18;31;Betis
+Jorge Hernández;Centrocampista;24;28;Pachuca
+Hirving Lozano;Delantero;17;22;PSV
+Jesús Corona;Delantero;18;25;Porto
+Carlos Vela;Delantero;11;29;Los Angeles FC
+Chicharito;Delantero;14;29;West Ham
+Seung-Gyu Kim;Portero;1;27; Vissel Kobe	
+Yong Lee;Defensa;2;31;Jeonbuk Hyundai 
+Jeong-ho Hong;Defensa;19;28;Jeonbuk Hyundai 
+Hyun-Soo Jang;Defensa;5;26;FC Tokyo
+Hyun-Soo Jang;Defensa;20;21;Jeonbuk Hyundai 
+Ju-ho Park;Defensa;21;31;Ulsan Hyundai
+Woo-young Jung;Centrocampista;13;28;Vissel Kobe	
+Sung-Yong Ki;Centrocampista;4;29;Swansea City	
+Chang-hun Kwon;Centrocampista;22;23;Dijon FCO	
+Jae-seong Lee;Centrocampista;8;29;Jeonbuk Hyundai 
+Heung-Min Son;Delantero;11;25;Tottenham Hotspur
+Karl-Johan Johnsson;Portero;12;28;EA Guingamp
+Victor Lindelof;Defensa;3;231;Manchester United
+Andreas Granqvist;Defensa;4;33; FK Krasnodar	
+Johan Larsson;Defensa;16;28;Brøndby IF	
+Niklas Hult;Defensa;6;28;AEK Atenas	
+Oscar Hiljemark;Centrocampista;15;25;Genoa CFC	
+Sebastian Larsson;Centrocampista;7;32;Hull City	
+Viktor Claesson;Centrocampista;17;26;FK Krasnodar	
+Marcus Berg;Delantero;9;31;Al-Ain FC	
+John Guidetti;Delantero;11;26;Deportivo Alaves	
+Isaac Thelin;Delantero;22;25;Waasland-Beveren	
+ter Stegen;Portero;22;26;FC Barcelona
+Mats Hummels;Defensa;5;29; Bayern
+Jérôme Boateng;Defensa;17;29;Bayern
+Joshua Kimmich;Defensa;18;23;Bayern
+Niklas Sule;Defensa;26;22;Bayern
+Toni Kroos;Centrocampista;8;28;Real Madrid
+Leon Goretzka;Centrocampista;24;23;FC Schalke 04
+Thomas Müller;Delantero;13;28;Bayern
+Sami Khedira;Centrocampista;6;31;Juventus
+Leroy Sane;Delantero;19;22;Manchester City
+Timo Werner;Delantero;11;22;Leipzig
+Thibaout Courtois;Portero;1;25;Chelsea
+Toby Alderweireld;Defensa;2;29;Totenham
+Vincent Kompany;Defensa;4;32;Manchester City
+Thomas Meunier;Defensa;15;26;Paris Saint-Germain
+Jan Verthonghen;Defensa;5;31;Totenham
+Kevin De Bruyne;Centrocampista;7;26;Manchester City
+Radja Nainggolan;Centrocampista;18;30; AS Roma
+Axel Witsel;Centrocampista;6;29;Tianjin Quanjian
+Romleu Lukaku;Delantero;9;24;Mnachester United
+Eden Hazard;Delantero;10;27;Chelsea
+Dries Mertens;Delantero;14;31;Napoles
+Alex Raul Rodriguez;Portero;1;27;San Francisco
+Jossue Hormechea;Defensa;4;21;Arabe Unido
+Sergio Valentin Ortega;Defensa;3;27;Plaza Amador
+Richard Amed Peralta;Defensa;5;24;Alianza
+Francisco Antonio Palacios;Defensa;2;27;San Francisco
+Josiel Alberto Nuñez;Centrocampista;6;25;Arabe Unido
+Valentin Enrique Pimentel;Centrocampista;8;26;Plaza Amador
+Rolando Vicente Botello;Centrocampista;5;26;Tauro
+Adalberto Eliecer Carrasquilla;Centrocampista;11;19;Tauro
+Jesus Alexis Gonzalez;Centrocampista;9;21;Tauro
+Alexis Venancio Palacios;Centrocampista;10;22;Alianza
+Moez Ben Cherifia;Portero;1;26;ES Tunis
+Syam Ben Youssef;Defensa;13;29;Kasimpasa
+Dylan Bronn;Defensa;22;22;Gent
+Oussama Haddadi;Defensa;5;26;Dijon
+Yohan Benalouane;Defensa;29;31;Leicester City
+Mohamed Ben Amor;Centrocampista;20;26;Al Ahli Jeddah
+Naim Sliti;Centrocampista;10;25;CS Dijon
+Ferjani Sassi;Centrocampista;50;26;Al-Nassr
+Saif-Eddine Khaoui;Centrocampista;13;23;Troyes
+Fakherddine Ben Youssef;Delantero;99;26;Al-Ittifaq
+Wahbi Khazri;Delantero;8;27;Rennes
+Joe Hart;Portero;25;31;West Ham United
+John Stones;Defensa;5;23;Manchester City
+Kieran Trippier;Defensa;2;27;Totenham
+Kyle Walker;Defensa;4;27;Manchester City
+Danny Rose;Defensa;3;27;Totenham
+Jordan Henderson;Centrocampista;14;27;Liverpool
+Dele Alli;Centrocampista;20;22;Totenham
+Raheem Sterling;Centrocampista;7;23;Manchester City
+Alex-Oxlade Chamberlain;Centrocampista;21;24;Liverpool
+Harry Kane;Delantero;10;24;Totenham
+Jamie Vardy;Delantero;9;31;Leicester City
+Wojciech Szczesny;Portero;23;28;Juventus
+Kamil Glik;Defensa;25;30;Monaco
+Maciej Rybus;Defensa;31;28;Lokomotiv Moscu
+Lukasz Pizczek;Defensa;26;32;Borussia Dortmund
+Marcin Kaminski;Defensa;35;26;Stuttgart
+Kamil Grosicki;Centrocampista;7;29;Hull City
+Piotr Zielinski;Centrocampista;20;23;Napoles
+Grzegorz Krychowiak;Centrocampista;24;28;West Brom
+Slawomis Peszko;Centrocampista;21;33;Lechia Gdansk
+Arek Milik;Delantero;99;24;Napoles
+Robert Lewandowski;Delantero;9;29;Bayern Munich
+Abdoulaye Diallo;Portero;1;26;Rennes
+Kalidou Koulibaly;Defensa;26;26;Napoles
+Youssouf Sabaly;Defensa;20;25;Girondins Bourdeaux
+Fallou Diagne;Defensa;3;28;Metz
+Armand Traore;Defensa;32;28;Cardiff City
+Alfred N'Diaye;Centrocampista;4;28;Wolverhampton
+Cheikhou Kouyate;Centrocampista;8;28;West Ham United
+Sadio Mane;Centrocampista;19;26;Liverpool
+Balde Keita;Centrocampista;14;23;Monaco
+Mame Biram Diouf;Delantero;18;30;Stoke City
+Mbaye Niang;Delantero;11;23;Torino
+David Ospina;Portero;13;29;Arsenal;
+Yerry Mina;Defensa;24;24;FC Barcelona
+Davison Sanchez;Defensa;6;21;Totenham
+Mojica;Defensa;3;25;Girona
+Cristian Zapata;Defensa;17;31;AC Milan
+Carlos Sanchez;Centrocampista;8;32;Espanyol
+Juan Fernando Quintero;Centrocampista;4;25;River Plate
+James Rodriguez;Centrocampista;11;26;Bayern Munich
+Jefferson Lerma;Centrocampista;6;23;Levante UD
+Carlos Bacca;Delantero;9;31;Villareal
+Radamel Falcao;Delantero;10;32;Monaco
+Kosuke Nakamura;Portero;23;23;Kashiwa Reysol
+Tomoaki Makino;Defensa;5;30;Urawa Red Diamonds
+Yuto Nagatomo;Defensa;55;31;Galatasaray
+Gen Shoji;Defensa;3;25;Kashima Antlers
+Gotoku Sakai;Defensa;24;27;Hamburgo
+Gaku Shibasaki;Centrocampista;10;25;Getafe
+Keisuke Honda;Centrocampista;2;31;Pachuca
+Makoto Hasebe;Centrocampista;20;34;Eintracht Frankfurt
+Hotaru Yamaguchi;Centrocampista;6;27;Cerezo Osaka
+Yoya Osako;Delantero;13;27;Koln
+Genki Haraguchi;Delantero;25;27;Fortuna Dusseldorf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
