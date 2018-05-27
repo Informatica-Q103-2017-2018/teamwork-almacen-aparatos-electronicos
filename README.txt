@@ -1,1 +1,0 @@
-Trabajo en grupo  "Almacen de aparatos electrónicos"
